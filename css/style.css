@@ -321,6 +321,9 @@ nav ul{
         color: crimson;
         cursor: pointer;
     }
+    .rating{
+    color: goldenrod;
+    }
     /* //Third section end */
     /* last section */
     .last-row{
